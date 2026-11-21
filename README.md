@@ -44,6 +44,10 @@ The dashboard provides insights into revenue, orders, gross profit, gross margin
 5. **Time-based Analysis:** Explore monthly and quarterly sales trends.
 6. **Interactive Filters:** Analyze data using country, month, quarter, and product category filters.
 
+## 🖥️ Dashboard Preview
+
+![Executive Sales Dashboard](Screenshots/Dashboard_Screenshot.png)
+
  📂 Dataset
 
 The project uses an Excel dataset as its primary data source.
