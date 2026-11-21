@@ -98,7 +98,7 @@ Executive-Sales-Performance-Dashboard/
 Aarti More
 Aspiring Data Analyst
 
-LinkedIn:linkedin.com/in/aarti-more-data-analyst
+LinkedIn:  [linkedin.com/in/aarti-more-data-analyst](https://www.linkedin.com/in/aarti-more-data-analyst/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BBD4W3bs4QQObmuvAiZKdcg%3D%3D)
 ---
 
 ⭐ If you find this project interesting, feel free to explore the repository!
