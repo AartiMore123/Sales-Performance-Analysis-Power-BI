@@ -46,7 +46,7 @@ The dashboard provides insights into revenue, orders, gross profit, gross margin
 
 ## 🖥️ Dashboard Preview
 
-![Executive Sales Dashboard](Screenshots/Dashboard_Screenshot.png)
+![Executive Sales Dashboard](Dashboard_Screenshot.png)
 
  📂 Dataset
 
